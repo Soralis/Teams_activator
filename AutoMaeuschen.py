@@ -1,4 +1,3 @@
-import math
 import pyautogui
 import random
 import time
